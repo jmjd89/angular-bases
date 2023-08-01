@@ -13,7 +13,7 @@ export class DbzService {
     {
       id: uuid(),
       name : "krilin",
-      power : 1000
+      power : 2000
     },
     {
       id: uuid(),
